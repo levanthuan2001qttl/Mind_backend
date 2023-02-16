@@ -13,7 +13,7 @@ $ git clone https://github.com/levanthuan2001qttl/Mind_backend
 #### 2. Change directory to folder server
 
 ```bash
-$ cd 
+$ cd server
 ```
 
 #### 3. Install dependencies
